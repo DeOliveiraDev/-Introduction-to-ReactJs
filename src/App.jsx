@@ -42,7 +42,7 @@ const posts = [
       role: 'Front-end Developer'
     },
     content: [
-      {type: 'paragraph', content: 'Não existe melhor linguagem, todas são boas mas, eu sempre vou descordar do Vinícius Oliveira'},
+      {type: 'paragraph', content: 'Não existe melhor linguagem, todas são boas mas, eu sempre vou discordar do Vinícius Oliveira'},
       {type: 'paragraph', content: 'Por que sou otário!'},
     ],
     publishedAt: new Date('2022-12-05 21:30:00')
